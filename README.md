@@ -22,3 +22,5 @@ We will create a 50 layer resnet .
     -> CONVBLOCK -> IDBLOCK*5 -> CONVBLOCK -> IDBLOCK*2 -> AVGPOOL -> TOPLAYER
     
 Dataset can be found at: https://eylwfcheaweqhqoxisnzyj.coursera-apps.org/tree/week2/ResNets/datasets
+
+Our pretrained model with accuracy of about 86% : https://eylwfcheaweqhqoxisnzyj.coursera-apps.org/tree/week2/ResNets
